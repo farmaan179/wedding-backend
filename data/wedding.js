@@ -11,7 +11,7 @@ module.exports = {
 
   // Families (shown under the names)
   parentsLine: "Mrs. & Mr. Gulshan Perdhan", // bride's parents, shows as "Daughter of ..."
-  groomFatherLine: "Son of Mr. Late Dilkar khan", // changed from "S/O" so it matches "Daughter of"
+  groomFatherLine: "Son of Mr. Late Dildar khan", // changed from "S/O" so it matches "Daughter of"
 
   // Event
   eventDate: "2026-11-17", // format must be YYYY-MM-DD
